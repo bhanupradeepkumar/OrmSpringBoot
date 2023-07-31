@@ -1,0 +1,913 @@
+9:05  ---79%
+10:34  ---75%  teams13 minutes whatsapp 9minutes 
+10:55  - idle 
+02:57  ---61%
+03:56  ---58%
+04:33  ---52% INSTA REELS
+04:52 ---52 hotspot on 
+new screen shots 
+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
+bhanupradeepkumar
+repository name 
+git remote set-url origin https://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@github.com/bhanupradeepkumar/SpringBootsts
+git remote set-url https://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@github.com/<Bhanu-28>/OrmSpringBoot
+07/21/23
+2:10  -69 hotspot on 
+2:16  -67 
+yesterday night charged 22 min 1-100% at 10:00
+used a lot watched youtube and all 
+morning wakeup 85%
+7:48 84%
+08:05 82%
+08:24 80%
+08:55 75%
+09:30 74% hotspot on 4g
+10:00 70% 
+10:50 62%
+12:06 52%
+12:34 48%
+12:39  47%
+01:03  44% some insta + hotspot \
+01:40 40% teams in phone 
+01:44 39% hotspot off 
+04:06 26%
+05:00 20% 
+05:56  14%  used whtsapp and chrome 
+call 10 min
+03 :21 31% hotspot on from 02:45
+
+never ever second guess yourself decide just make a decision and
+dont second guess yourself cause oone way or or the other
+it is going to help you but if u stay in that dilemma that is ek toh
+sufeering and upar se the bear that has come in front of you will kill you
+so if  you re deciding whether to stay still or to run if theres a baalu
+if youre still or run he will eat you so you should never secong guess yourself
+make a strong decision and go with it one way or other you will learn
+if its a wrong one you will learn if its right you will learn
+
+spring tool suite
+
+create a java project
+
+oops project
+
+src new class
+
+SavingsAccountTest.java
+main and space bar
+sysout
+
+psvm in vscode
+so print
+
+savings account assignment set show withdraw deposit
+assignment
+
+A small assignment to everyone,
+Innovate a class out of your imagination, with some data and functions,
+It MUST NOT REPEAT in our batch of 18 members
+
+the height of your success cant increase the height of personal development 
+to start hsqldb server 
+java -cp hsqldb.jar org.hsqldb.server.Server --database.0 file:mydb --dbname.0 xdb
+to start application 
+ java -jar hsqldb.jar
+
+it has to be a unique ONE
+intellij right click open module settings modules select dependencies click on + and add hsqlsb.jar file from lib and your good to go 
+driver name 
+org.hsqldb.jdbc.JDBCDriver
+exception handling....
+
+
+in goals type 
+clean compile test 
+mutli threading 
+
+perform car driven by short drive or long drive 
+define exceptions total 
+
+what if child class also has exception also 
+
+throws is not necessary for run time exception 
+child cant write a method where parent is not ready for exeption 	
+
+class FallException extends Exception {
+
+}
+class DrukenMaster{
+void drinkAndFight(){
+//capable for 5 techniques 
+}
+
+}
+
+class DrunkDisciple extends DrukenMaster{
+void drinkAndFight() throws FallenException{ 
+//caplable to use 10 techniques 
+}
+}
+
+
+explain if parent can extend fight exception then child can extend 
+fallen exception 
+knockkonckdown exception 
+
+
+//savingsAccount  fun() -3 exceptions 
+//FixedDepositException  -3 exceptions 
+
+
+
+
+
+
+
+
+persistent object --> object already in the data base 
+
+
+code marathon eclipse 
+how much portion will be there for first exam 
+day section 1, section 2 
+till day 3 
+
+2nd exam day 4,day 5 
+
+like deleteDepartmentTest
+like insertDepartmentTest ->naming conventions like this end or start 
+
+
+expection is assertion si falling right place 
+test cases how to write and rull
+@Test ->ANNOTATIONS 
+
+@tABLE
+@iD --ANNOTATIONS 
+is extra information in java
+
+
+tommorrow exam 
+main concern is 
+how to write proper clean code 
+with comments and write  with 
+proper naming conventions 
+so keep this in mind and write this responsibility 
+as a original project where others need to see your code like that 
+
+
+charcoal to diamond takes million years 
+
+pressure but take it as oppurtunity''
+
+Good scenario always take 
+
+
+synchronize void eat 
+
+
+try{
+
+wait(); //a notif() function will interupt this 
+
+
+}
+
+use finalize 
+
+
+
+
+
+///// to write a spring 
+
+needed 
+1. your pojo | business entity 
+2. 
+
+
+
+clean compile test bas 
+scope = prototype for different location of car object 
+<constructor when dealing with constructors 
+<property when dealing with methods 
+
+//ctrl + shift +M auto import 
+@Component
+|no need to write xml file 
+|
+used to auto detection of classes 
+
+@auto wired  
+|
+|
+use of annotations....
+it will intimate the parameter required to 
+its belonging classes and automatically 
+required object is created...
+
+automatically acquire what are the dependencies 
+
+
+java mcq test revision 
+
+
+
+exception handling 
+types checked and unchecked 
+compile time is checked 
+
+if it is extending from exception class then checked 
+runtime exception is unchecked
+
+drunken master and drunken slave example 
+
+cant be thrown by child if super 
+child can only throw extended exception
+
+throws compulsory in checked exception 
+checked Exception and for runtime we no need to add throws
+in run time no need 
+
+
+marker interfaces 
+is an empty interfaces guide virtual machine no mtds 
+no variables 
+
+
+final never be overridden 
+
+static only static method 
+
+non static can acccess static 
+
+this.
+super()
+super.
+this()
+
+
+string buffer is thread safe and synchronized
+
+and builder is not thread safe 
+
+
+
+generic programming 
+comparater comparable 
+methods in multi threading 
+list set 
+upto assertions 
+
+
+mvc -->model view controller 
+
+		controller--a servlet - dispatch servlet  
+		    |	request/response 
+model 				view 
+(data)
+database			static:html/css
+pojo				dynamic : jsp pages 
+repositories 
+
+
+dynamic convert to maven 
+configure change too maven project 
+add the dependencies in pom.xml
+add the dispatcher servlet in web.xml
+create spring-servlet.xml filr <--spring beans configured here 
+if web.xml is not there go to project 
+java ee tools generate deployment descriptor stub 
+
+internal resource view has location for jsp page 
+
+"/"
+
+spring booot is nothing but automatic configuratiosn 
+all were managed
+
+spring starter project 
+recomd to create all in packages 
+http://localhost:8080/burgers/greet
+controller @RestCOntroller
+@RequestMapping("/burgers")
+com.kpit.controllers
+entity
+repositiries 
+services
+
+xml json 
+java script object notation 
+@RestController 
+@RequestMapping
+package layer1 ->pizza
+layer2->pizza repositiries
+layer3 ->pizza services
+layer4 ->pizza controller
+
+netstat -a
+netstat -ano
+netstat -ano | "8080"
+taskkill /PID 16300 /F  -> to kill port 
+
+
+rest api 
+angular project 
+u have to combine angular with spring rest 
+
+@RequestMapping("/showSinglePizza{pid})
+
+
+
+java mcq test 2 
+exception handling 
+multi threading 
+design pattern 
+test 
+
+multi threading many methods 
+which thread catually wait to complete 
+thread should complete 
+join  
+when we ovveride it should be public or private method ist no.. 
+
+can we override static methods 
+only instance ans accessible ovverriden 
+
+java.lang 
+
+getClass()
+
+returns class object Class<T> in class getTypeName() determines type information in 
+string manner 
+getAnnotations() return Annotation[]
+
+getClass.getAnnotations
+
+can string base musical instrument extends from 
+another abstract class -> no we cant 
+
+assertions methods 
+
+Assertions.assertTrue
+Assertions.assertFalse verify whether it there  or not 
+
+how do we add unique objects in hashset 
+-->equals and hashcode 
+both will be overridden 
+
+class A
+{
+void fun(){}
+}
+class B extends A{
+@Override
+void fuun(){
+
+}
+}
+
+
+sometimes super class will be not available so use override
+
+
+cloning 
+object class there a method java1.8 docs java.lang 
+
+creates a and returns copy of object 
+
+clone()
+
+finalze()
+garbage collector 
+
+finally block  pupose 
+release the resource 
+
+
+1 million objects creating garbage collection process 
+error in java virtual machine can u handle the error ->no 
+storm in ocean cant be handled only in ship can be handled 
+
+
+only exceptions can be caught errors cant be caught 
+
+spring web application can be secure 
+register via github and google 
+we will see today like that 
+authentication which is secure and robust 
+
+
+
+code marathon....
+codecheff
+not dsa based but basic programming 
+
+good cheff java 
+case study one code will be produced 
+two bank accounts were given 
+and source account balnce should be display
+and target account balance
+withdraw deposit 
+wther matured or not 
+exception to be craeted 
+account where to create hasset of arraylist 
+3 easy questions will be given and 
+another code marathon will be on 5 such questions 
+crud repository in spring jpa 
+go to battery health java 
+arrays starting 2-3
+basic programming 1,2,3 
+gdturn ,top10, candivide, btry helath, jerrychase
+
+spring boot will be given in code marathon 
+create read update delete in marathon 
+
+
+constructor is a special function which is used 
+to initialize objects of a class when u create member or variable of 
+class time you call that variable as an object .
+to initialize the object u construct the object to initialize the 
+data members u need something called as constructor 
+a function which has same name is  called constructor 
+they dont have any return type they just take parameters 
+which are used to initialize the members of that particluar object 
+if suppose data members are real and img 
+
+so we initialize two members so we have 2 paramenters r and i 
+and we initialized real as r like that 
+
+
+in java when u create an object which is  non primitive data type it 
+always allocate in heap no worry or  need to deaalocate it 
+
+in java its always heap in 		//c++ dynamcic allocation heap and normal varaible creation stack both 
+you always create object using new operator 
+
+if u dont write new part this just create reference 
+does not create a new object 
+
+
+
+import java.math.*;
+import java.io.*;
+import java.util.*;
+
+class Complex
+{
+    int real, imag;
+
+    void print()
+    {
+        System.out.println(real + " +i"+ imag);
+    }
+
+    Complex(int r, int i)
+    {
+        real = r;
+        imag = i;
+    }
+
+    void add(Complex C)
+    {
+        real += C.real;
+        imag += C.imag; 
+    }
+}
+public class Gfg
+{ 
+    public static void main(String[] args)throws IOException 
+    { 
+      
+      Complex c1 = new Complex(10, 20);
+
+      c1.print();
+
+      Complex c2 = new Complex(20, 30);
+
+      c1.add(c2);
+
+      c1.print();   
+
+    } 
+} 
+
+encapsulation is also defined as bundling of data members and methods
+
+putting restrictions of fields 
+where variables of a cls will be hidden from other classes
+and can be accessed only through the methods of current classs
+
+in protected 
+
+
+
+the variables whicha are shared among all the objects inthe class
+are static variables
+
+they can be accessed using class name also 
+or object also 
+
+
+inheritance implements  is a relationship in java 
+
+code reusablility 
+used in overriding 
+used in abstarct 
+classes and intefaces 
+
+
+super is a keyword in java which is used mainly in inheritance 
+super is used to access the parent class members 
+
+using super we can call the constructor of super class 
+
+
+when i create an object the constructor is called later it calls 
+the parent class constructor and it initialises these two memmbers 
+
+
+
+object class is root of inheritance hierarchy in any java code it has ancestor of all classes
+ 
+suppose if u create class test if it does not inherit 
+from any class its still inheriting from object class 
+
+and this object class has certain methods like 
+clone()
+equals()
+hashCode()
+toString()->object to string //
+
+u will get these becuse object being root of inheritance 
+
+
+super keyword 
+to call parent class constructor 
+we can call from child class constructor only 
+
+to access data members and methods of parent class 
+
+if parent class has method color and child class has same
+we can parent method like super.color 
+used in overriding also 
+avoid name conflicts 	
+
+
+super is mainly used for parametarized constructor 
+avoid ambiguity 
+
+
+
+
+types of inheritance 
+
+single inheritance  teacher - student 
+multilevel inheritance grandpa-father-grandson 
+heirarchial inheritance 
+single class multiple class inherit from it 
+
+multiple inheritance no supported with classes 
+what is it ??
+
+
+a single class inherits from multiple classes allowed in c++ not inn java 
+
+to avoid ambiguity of methods 
+
+java allows interfaces will have multiple inheritance 
+a class can implements multiple interfaces 
+and an interface can extends or inherit from 
+multiple interfaces 
+
+next type is hybrid inheritance 
+
+NOT ALLOWED IN JAVA BUT INTERFACE OKAY 
+method overloading 
+
+public class MethodOverloading {
+    public int sum(int x,int y){
+        return(x+y);
+    }
+    public int sum(int x,int y,int z){
+        return(x+y+z);
+    }
+    public double sum(double x,double y){
+        return(x+y);
+
+    }
+
+    public static void main(String[] args) {
+        MethodOverloading s = new MethodOverloading();
+        System.out.println(s.sum(10,20));
+        System.out.println(s.sum(9.0,0.97));
+        System.out.println(s.sum(90,80,89));
+    }
+
+}
+
+
+method overriding 
+public class MethodOverriding {
+    public static void main(String[] args) {
+Base b = new Derived();
+    }
+}
+
+class Base{
+
+}
+
+class Derived extends Base{
+    
+}
+
+allows base class reference to have reference to object 
+of derived class 
+
+
+
+employee 
+	
+   |
+salesEMp HRemp 
+
+hremp is actually a aemployee is a relation 
+but not every employee is not hr employee 
+
+
+Base b = new Derived();
+we create a reference of base class refering to a object 
+of derived type 
+ if we print b.fun();
+it will print derived class function 
+it is called runtime polymorphism //
+create a object of derived class type even if it is being '
+refered by a base class refernece if u call fun 
+it will call derived class function 
+
+at runtime it see whether reffered object is derived 
+type or not which is being reffered 
+
+real world apps
+
+employee
+    |
+sales employee 	hr employee 
+
+now in employee class u increase raise salary but 
+in sde employee raise is different u can overide
+ with same name and signature 
+
+now what happenss is suppose base 	u have 
+base class employer refernce refering to any of the 
+derived class objects and if you call raised salary of this object the raised salary of 
+of coressponding would be called if it is reffering to 
+hr employeee then hr employee classes raise salary would be 
+called if its is reffering to sde employee then it will 
+call the base salary of sde class 
+
+i can simply call raise salary in aloop 
+i can pass array of employees and this aaray can be reffering to different type of object 
+and this will cause raise salary  of apppropriate class 
+because of overriding or runtime polymorphism 
+
+
+not only raise salary u can have function print details 
+
+like i dont have to write different different functions for different type of 
+emploeyees like print in employee and hr with speciffic details 
+
+
+Parent p1 = new child();
+we are creating a object of child and this object is 
+being referred by reference of parent type 
+
+prints childs fun beacuse reffered object is of child class 
+also called runtime polymorphism 
+beacuse at run time it sees what tpe of object is being refferd and 
+according to refferd object method is called 
+//if u create a parent reference which is referencing to a child class
+ object and 
+
+
+
+-------
+static methods are class specific methods 
+in static u are not going to have overriding its going to 
+call method according to reference type not according to the object tpe 
+ 
+
+*****
+@override annotation is recommended to write 
+whenerver u r overriding a method  
+
+Parent p = new child();
+ parent reference which is calling to a 
+child class object 
+
+when u call p.fun(); overriding happens and this function (child)
+is called beacuse reffered object is of child type 
+
+
+abstraction 
+
+graphic software 
+
+shape have data members like 
+color name and more 
+
+methods like 
+draw();
+getArea()
+
+
+when u are designing  base class shape 
+u dont know at that moment u dont know u want to ensure that 
+every cls has these methods of shape 
+
+
+------make methods as abstarct because
+ i dont know implementation of these methods 
+i  base class like shape 
+but if u want to create objects of derived classses 
+these derived classes must must implements these methods 
+
+*****when u make abstract method u either make a method
+abstract in interfaces or abstract classes
+
+abstraction in java is acheived by abstarct classes
+and second is interfaces 
+
+*****in abstract classes u have abstarct methods and normal 
+*****methods as well and in interfaces evrytjing is abstract by default 
+
+when designing a software in some situations we have base class 
+where we dont know implementation of methods in  those  so we use abstract methods  
+like draw get area 
+
+where **** we just say that this method has to be there in derived classes 
+we dont do implementation now 
+
+abstract and concrete are english words 
+so abstract means u only provide high level details 
+ dont provide the detailed implentation of details things 
+ 
+in concrete classess the classes which are going to implement the shape 
+like rectangle is a class derived from a shape or implements shape 
+
+
+a class is abstarct if we use abstract keyword before it 
+cant create instances of it u can only make sub classes of it 
+
+
+
+interface Printable{}
+
+allows 2 types 
+->default after java1.8
+->static  "	"	"
+->abstract methods 
+
+
+in an interface everything is public by default 
+we can have only public methods if add protected we will get compile error
+
+implements is also a keyword in java 
+when a class implements an interface it is supposed 
+to implement the abstract methods of class 
+
+in interface if we right int x =10;
+means it is 
+public static final int x =10;
+
+added default and static beacuse if we add new functionality 
+in print class later implementing class should not break so 
+introduced later in java 1.8 version 
+
+
+***** a class can implement mutiple interfaces 
+*****an interface can extend mutiple interfaces 
+
+
+to call static methods i have to use inteface name 
+
+
+*****abstract methods cant have body 
+
+
+abstract classes vs interfaces 
+
+similarities -> used to acheive abstarction 
+instance cant be created 
+reference can  be created 
+DIfferences :
+interfaces cant have constructors 
+all data members are public static final
+static means not object specific its shared among all the objects 
+all methods are public ,multiple 
+
+
+interfaces advantagees 
+a class can implements multiple interfaces 
+an intefaces can inherits/extends  from mutiple interfaces 
+
+an abstarct class can implement an interface
+comparable serializable 
+
+
+*****a normal class can extend an abstract class and can implement one or more 
+interfaces 
+
+like an employee abstract class 
+
+has a child sales employee extends  which has all methods of employee
+
+then later implements comparable interfacees 
+
+to sort sales employee in no. of sales they did 
+
+
+when to use abstract classess
+
+when we have a logical isa relation ship like shape and rectangle 
+and employee and sales employee etc and 
+->when need protected private deafult 
+->non-static and non-final data members
+
+when to use intefaces 
+when we need a functionality or set of functionality to be implemented by 
+possibly unrelated classes
+//its about capabilities or functionalities or behaviours 
+ex:- comparable 
+many unrelated classes implements comparable
+2.multiple implementations 
+3.multiple inheritance can extend mutiple other interfaces 
+
+
+
+
+scrum 
+
+Scrum is an agile project management framework 
+that helps teams structure and manage their work 
+through a set of values, principles, and practices.
+3 daily questions 
+1.what did i complete yesterday 
+2.what will i complete today 
+3.what impediments or obstacles am i currently facing 
+
+
+answers whould be quantitative shoul avoid lengthy 
+
+
+location is generally called war room 
+use of index cards sticky notes scrum board 
+burn down charts 
+
+
+
+bit noisy|||||!!!
+
+
+4 questions 
+what has my team worked on since last meeting 
+what will my teeam do until next meeting 
+what were the other tesms counting on our team
+to finish that remains undone ??
+wht does our team plan to do that might affect other teams ??
+
+gant charts 
+
+palnned value pv 
+earned value 	ev
+acual cost  	av 
+time weeks 
+
+
+accepted deliverables 
+rejected 
+earned value results 
+
+
+retrospect meetings help the team improve its performance
+after sprint review at end of sprint 
+team velocity no of story points in given sprint 
+
+
+done sucess rate % of point svs those commited 
+*****
+scrum session 1
+sprint backlog 
+scrum call will be 15 min 
+scrum master and workers need to attend it 
+time is boxed 
+either success or failure thats it u need to accept it 
+
+
+
+person //can we say a person a student 
+student extends person //a student is a person 
+
+
+01824444338 --fee 
